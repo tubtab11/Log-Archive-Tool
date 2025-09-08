@@ -33,6 +33,8 @@ cd Log-Archive-Tool
 chmod +x log-archive.sh
 sudo mv log-archive.sh /usr/local/bin/log-archive
 
-Project Source
+---
 
-This project is part of the [Server Performance Stats project on roadmap.sh](https://roadmap.sh/projects/Log-Archive-Tool)
+## Project Source
+
+This project is part of the [Log Archive Tool project on roadmap.sh](https://roadmap.sh/projects/log-archive-tool)
